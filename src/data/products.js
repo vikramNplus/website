@@ -20,10 +20,10 @@ Equipped with advanced printhead technology, it delivers vibrant colors and shar
       '24/7 continuous operation capability'
     ],
     specifications: [
-      { label: 'Print Head', value: 'Konica 512i / Starfire 1024' },
+      { label: 'Print Head', value: 'Konoca 1024i/ Starfire 1024' },
       { label: 'Print Width', value: '3.2 Meters (10.5 Feet)' },
       { label: 'Resolution', value: 'Up to 1440 DPI' },
-      { label: 'Speed', value: '2 Pass: 1200 sq.ft/hr, 3 Pass: 800 sq.ft/hr' },
+      { label: 'Speed', value: '2 Pass: 4000 sq.ft/hr, 3 Pass: 800 sq.ft/hr' },
       { label: 'Ink Type', value: 'Solvent / Eco-Solvent' },
       { label: 'Media Type', value: 'Flex, Vinyl, PVC, Canvas, Mesh' },
       { label: 'Interface', value: 'USB 2.0 / 3.0 High Speed' },

@@ -66,7 +66,7 @@ const About = () => {
               <h2 className="text-3xl font-bold mb-6 text-brand-dark">Our Journey (2009 - Present)</h2>
               <div className="prose max-w-none text-gray-600 space-y-4 text-justify">
                 <p>
-                  <strong>{companyDetails.name}</strong> was founded in 2009 by Mr. R. Perumal with a singular vision: to bridge the technological gap between international digital printing standards and the local manufacturing needs of South India. In the late 2000s, the market was flooded with expensive imported machines that lacked reliable local support. Seeing the struggle of small print shop owners who faced weeks of downtime due to minor technical issues, Mr. Perumal established the company initially as a specialized service center.
+                  <strong>{companyDetails.name}</strong> was founded in 2009 by Mr.Esakkiraj. K with a singular vision: to bridge the technological gap between international digital printing standards and the local manufacturing needs of South India. In the late 2000s, the market was flooded with expensive imported machines that lacked reliable local support. Seeing the struggle of small print shop owners who faced weeks of downtime due to minor technical issues, Mr. Perumal established the company initially as a specialized service center.
                 </p>
                 <p>
                   The first few years were defined by relentless dedication to technical mastery. Our team spent countless hours dissecting machines, understanding the nuances of piezoelectric printheads, and mastering the electronics of large-format printers. This period of deep technical learning laid the foundation for our future. We didn't just want to sell boxes; we wanted to sell solutions that we could stand behind with absolute confidence.
@@ -162,7 +162,7 @@ const About = () => {
               <h3 className="text-2xl font-bold mb-1 text-gray-800">{companyDetails.ceo.name}</h3>
               <p className="text-brand-blue font-bold uppercase tracking-wider text-sm mb-4">CEO</p>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                Mr. MSVSAI drives the company's strategic growth and technological advancements. His vision has been instrumental in expanding our portfolio to include modern laser and CNC solutions.
+                Ms. Swetha. K drives the company's strategic growth and technological advancements. Her vision has been instrumental in expanding our portfolio to include modern laser and CNC solutions.
               </p>
               <a href={`tel:${companyDetails.ceo.phone}`} className="inline-flex items-center gap-2 text-white bg-brand-blue hover:bg-blue-700 px-6 py-2 rounded-full font-medium transition-colors">
                 <Phone size={16} /> {companyDetails.ceo.phone}
