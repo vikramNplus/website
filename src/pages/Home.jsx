@@ -62,12 +62,15 @@ const Home = () => {
                transition={{ duration: 0.8, delay: 0.2 }}
                className="lg:w-1/2 relative"
             >
-               {/* Hero Image Placeholder */}
+               {/* Hero Image */}
                <div className="relative z-10 bg-gradient-to-tr from-gray-800 to-gray-900 rounded-2xl shadow-2xl p-4 border border-gray-700">
                   <div className="aspect-video bg-gray-700 rounded-xl overflow-hidden relative group">
-                    <div className="absolute inset-0 flex items-center justify-center text-gray-500 font-bold text-lg">
-                       Hero Machine Image
-                    </div>
+                    <img 
+                      src="https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=1200&h=800&fit=crop" 
+                      alt="Digital Printing Machine"
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                   </div>
                </div>
                {/* Decorative elements */}
@@ -159,10 +162,7 @@ const Home = () => {
               <Link to={`/products/${product.id}`} key={product.id} className="group">
                 <div className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-xl transition-all h-full flex flex-col">
                   <div className="h-48 bg-gray-200 relative overflow-hidden">
-                     {/* Placeholder Image */}
-                     <div className="absolute inset-0 flex items-center justify-center text-gray-400 font-medium">
-                        {product.name} Image
-                     </div>
+                     <img src={product.images[0]} alt={product.name} className="w-full h-full object-cover" />
                      <div className="absolute inset-0 bg-brand-dark/0 group-hover:bg-brand-dark/10 transition-colors"></div>
                   </div>
                   <div className="p-6 flex flex-col flex-grow">
