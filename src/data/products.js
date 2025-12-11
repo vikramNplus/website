@@ -246,7 +246,7 @@ Controlled by an advanced DSP or PC-based system, the machine executes complex 2
     images: [
       '/images/products/cnc-1.jpeg',
       '/images/products/cnc-2.jpeg',
-      '/images/products/cnc-3.jpeg',
+      // '/images/products/cnc-3.jpeg',
     ]
   },
   {
@@ -343,12 +343,12 @@ Ideal for large-scale hoarding manufacturers and billboard companies, this machi
       'Sharp text and vibrant colors'
     ],
     images: [
-      '/images/products/printhead-1.jpg',
-      '/images/products/printhead-2.jpg',
-      '/images/products/printhead-3.jpg',
-      '/images/products/printhead-4.jpg',
-      '/images/products/printhead-5.jpg',
-      '/images/products/printhead-6.jpg'
+      'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1530124566582-a618bc2615dc?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1597733336794-12d05021d510?w=800&h=600&fit=crop'
     ]
   },
   {
@@ -395,11 +395,11 @@ Ideal for large-scale hoarding manufacturers and billboard companies, this machi
       'Improved data transmission stability'
     ],
     images: [
-      '/images/products/motherboard-1.jpg',
-      '/images/products/motherboard-2.jpg',
-      '/images/products/motherboard-3.jpg',
-      '/images/products/motherboard-4.jpg',
-      '/images/products/motherboard-5.jpg'
+      'https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1555617981-dac3880eac6e?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1608564697071-ddf911d81370?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1628744876657-9f7eda5c18b8?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1595314617144-b04f8f3c8e94?w=800&h=600&fit=crop'
     ]
   },
   {
@@ -447,11 +447,11 @@ Ideal for large-scale hoarding manufacturers and billboard companies, this machi
       'Consistent step accuracy'
     ],
     images: [
-      '/images/products/motor-1.jpg',
-      '/images/products/motor-2.jpg',
-      '/images/products/motor-3.jpg',
-      '/images/products/motor-4.jpg',
-      '/images/products/motor-5.jpg'
+      'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1581092162384-8987c1d64718?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600&fit=crop'
     ]
   },
   {
@@ -498,11 +498,11 @@ Our boards come with enhanced protective coatings to resist corrosion from solve
       'Ensures consistent color density'
     ],
     images: [
-      '/images/products/colour-board-1.jpg',
-      '/images/products/colour-board-2.jpg',
-      '/images/products/colour-board-3.jpg',
-      '/images/products/colour-board-4.jpg',
-      '/images/products/colour-board-5.jpg'
+      'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1540829917886-91ab031b1764?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1601591116336-123e1b0e6b0d?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1563770660941-20978e870e26?w=800&h=600&fit=crop'
     ]
   },
   {
@@ -547,11 +547,11 @@ Regular cleaning is required, but eventually, every strip needs replacement. If 
       'Long-lasting durability'
     ],
     images: [
-      '/images/products/encoder-1.jpg',
-      '/images/products/encoder-2.jpg',
-      '/images/products/encoder-3.jpg',
-      '/images/products/encoder-4.jpg',
-      '/images/products/encoder-5.jpg'
+      'https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1592659762303-90081d34b277?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop'
     ]
   },
   {
@@ -596,11 +596,11 @@ Made from solvent-resistant, high-density polyethylene (HDPE) or similar robust 
       'Reduces maintenance downtime'
     ],
     images: [
-      '/images/products/subtank-1.jpg',
-      '/images/products/subtank-2.jpg',
-      '/images/products/subtank-3.jpg',
-      '/images/products/subtank-4.jpg',
-      '/images/products/subtank-5.jpg'
+      'https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1598520106830-8c45c2035460?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1563203369-26f2e4a5ccf7?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1582719471137-c3967ffb1c42?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1581092918484-8313e1f7e8c7?w=800&h=600&fit=crop'
     ]
   },
   {
@@ -645,11 +645,11 @@ We stock pumps with various voltage ratings (24V DC is standard) and flow capaci
       'Long service intervals'
     ],
     images: [
-      '/images/products/pump-1.jpg',
-      '/images/products/pump-2.jpg',
-      '/images/products/pump-3.jpg',
-      '/images/products/pump-4.jpg',
-      '/images/products/pump-5.jpg'
+      'https://images.unsplash.com/photo-1581092162384-8987c1d64718?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1616401784845-180882ba9ba8?w=800&h=600&fit=crop'
     ]
   },
   {
@@ -683,11 +683,11 @@ We are a one-stop shop for all your spare part needs. Our team can help identify
       'Quality assurance'
     ],
     images: [
-      '/images/products/spares-1.jpg',
-      '/images/products/spares-2.jpg',
-      '/images/products/spares-3.jpg',
-      '/images/products/spares-4.jpg',
-      '/images/products/spares-5.jpg'
+      'https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=800&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1597733336794-12d05021d510?w=800&h=600&fit=crop'
     ]
   }
 ];

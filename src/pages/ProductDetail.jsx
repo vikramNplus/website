@@ -307,7 +307,7 @@ const ProductDetail = () => {
                   <a href={`tel:${companyDetails.md.phone}`} className="text-xl font-bold text-white hover:text-brand-light transition-colors block">
                     {companyDetails.md.phone}
                   </a>
-                  <div className="text-xs text-gray-500 mt-1">Mr. R. Perumal (MD)</div>
+                  <div className="text-xs text-gray-500 mt-1">Mr. R. Perumal` (MD)</div>
                 </div>
               </div>
             </div>
