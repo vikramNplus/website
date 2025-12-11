@@ -66,7 +66,7 @@ const Products = () => {
                   <Link to={`/products/${product.id}`} className="block h-full flex flex-col">
                     <div className="h-56 bg-gray-200 relative overflow-hidden">
                       <div className="absolute inset-0 flex items-center justify-center text-gray-400 font-medium">
-                        {product.name} Image
+                        <img src={product.images[0]} alt={product.name} className="w-full h-full object-cover" />
                       </div>
                       <div className="absolute inset-0 bg-brand-dark/0 group-hover:bg-brand-dark/10 transition-colors"></div>
                     </div>

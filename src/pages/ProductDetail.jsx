@@ -130,14 +130,14 @@ const ProductDetail = () => {
                   <a href="#enquire" className="w-full bg-brand-blue hover:bg-blue-700 text-white py-4 rounded-xl font-bold text-lg text-center transition-colors shadow-lg shadow-blue-200">
                     Get Best Price & Quote
                   </a>
-                  <div className="flex gap-4">
+                  {/* <div className="flex gap-4">
                     <button className="flex-1 bg-white border-2 border-gray-200 hover:border-brand-blue text-gray-700 hover:text-brand-blue py-3 rounded-xl font-semibold flex items-center justify-center gap-2 transition-all">
                       <Download size={20} /> Download Brochure
                     </button>
                     <a href={`tel:${companyDetails.md.phone}`} className="flex-1 bg-green-50 border-2 border-green-100 hover:border-green-500 text-green-700 py-3 rounded-xl font-semibold flex items-center justify-center gap-2 transition-all">
                       <Phone size={20} /> Call Expert
                     </a>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </motion.div>
@@ -307,7 +307,7 @@ const ProductDetail = () => {
                   <a href={`tel:${companyDetails.md.phone}`} className="text-xl font-bold text-white hover:text-brand-light transition-colors block">
                     {companyDetails.md.phone}
                   </a>
-                  <div className="text-xs text-gray-500 mt-1">Mr.Esakkiraj. K (MD)</div>
+                  <div className="text-xs text-gray-500 mt-1">Mr. R. Perumal (MD)</div>
                 </div>
               </div>
             </div>

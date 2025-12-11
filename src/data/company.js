@@ -3,12 +3,12 @@ export const companyDetails = {
   founded: 2009,
   experience: 16,
   md: {
-    name: "Mr.Esakkiraj. K",
-    phone: "7200809219",
+    name: "Mr. R. Perumal",
+    phone: "6361874799",
   },
   ceo: {
-    name: "Ms. Swetha. K",
-    phone: "6382888177",
+    name: "Mr. MSVSAI",
+    phone: "9043488006",
   },
   email: "info@digitalprints.example",
   address: {

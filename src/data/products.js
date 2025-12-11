@@ -44,11 +44,16 @@ Equipped with advanced printhead technology, it delivers vibrant colors and shar
       'Durability ensures long-term asset value'
     ],
     images: [
-      '/images/products/flex-machine-1.jpg',
-      '/images/products/flex-machine-2.jpg',
-      '/images/products/flex-machine-3.jpg',
-      '/images/products/flex-machine-4.jpg',
-      '/images/products/flex-machine-5.jpg'
+      '/images/products/flex-machine-1.jpeg',
+      '/images/products/flex-machine-2.jpeg',
+      '/images/products/flex-machine-3.jpeg',
+      '/images/products/flex-machine-4.jpeg',
+      '/images/products/flex-machine-5.jpeg',
+      '/images/products/flex-machine-6.jpeg',
+      '/images/products/flex-machine-7.jpeg',
+      '/images/products/flex-machine-8.jpeg',
+      '/images/products/flex-machine-9.jpeg',
+      '/images/products/flex-machine-10.jpeg',
     ]
   },
   {
@@ -95,11 +100,8 @@ The machine supports a variety of flexible media, including soft film, wallpaper
       'High-margin product output'
     ],
     images: [
-      '/images/products/uv-roll-1.jpg',
-      '/images/products/uv-roll-2.jpg',
-      '/images/products/uv-roll-3.jpg',
-      '/images/products/uv-roll-4.jpg',
-      '/images/products/uv-roll-5.jpg'
+      '/images/products/uv-roll-1.jpeg',
+      '/images/products/uv-roll-2.jpeg',
     ]
   },
   {
@@ -146,11 +148,9 @@ The machine features a robust gantry system and high-quality stepper motors that
       'Versatile for many industries'
     ],
     images: [
-      '/images/products/laser-1.jpg',
-      '/images/products/laser-2.jpg',
-      '/images/products/laser-3.jpg',
-      '/images/products/laser-4.jpg',
-      '/images/products/laser-5.jpg'
+      '/images/products/laser-1.jpeg',
+      '/images/products/laser-2.jpeg',
+      '/images/products/laser-3.jpeg',
     ]
   },
   {
@@ -197,11 +197,9 @@ With its ability to print white ink and varnish, you can create textured, emboss
       'Eliminate mounting and lamination steps'
     ],
     images: [
-      '/images/products/flatbed-1.jpg',
-      '/images/products/flatbed-2.jpg',
-      '/images/products/flatbed-3.jpg',
-      '/images/products/flatbed-4.jpg',
-      '/images/products/flatbed-5.jpg'
+      '/images/products/flatbed-1.jpeg',
+      '/images/products/flatbed-2.jpeg',
+      '/images/products/flatbed-3.jpeg',
     ]
   },
   {
@@ -246,11 +244,9 @@ Controlled by an advanced DSP or PC-based system, the machine executes complex 2
       'Increases production capacity'
     ],
     images: [
-      '/images/products/cnc-1.jpg',
-      '/images/products/cnc-2.jpg',
-      '/images/products/cnc-3.jpg',
-      '/images/products/cnc-4.jpg',
-      '/images/products/cnc-5.jpg'
+      '/images/products/cnc-1.jpeg',
+      '/images/products/cnc-2.jpeg',
+      '/images/products/cnc-3.jpeg',
     ]
   },
   {
@@ -292,11 +288,10 @@ Ideal for large-scale hoarding manufacturers and billboard companies, this machi
       'Professional finish quality'
     ],
     images: [
-      '/images/products/pasting-1.jpg',
-      '/images/products/pasting-2.jpg',
-      '/images/products/pasting-3.jpg',
-      '/images/products/pasting-4.jpg',
-      '/images/products/pasting-5.jpg'
+      '/images/products/pasting-1.jpeg',
+      '/images/products/pasting-2.jpeg',
+      '/images/products/pasting-3.jpeg',
+      '/images/products/pasting-4.jpeg',
     ]
   },
   {

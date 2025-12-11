@@ -32,13 +32,22 @@ const ImageCarousel = ({ images, title }) => {
           transition={{ duration: 0.5 }}
           className="absolute inset-0 flex items-center justify-center bg-gray-200"
         >
-           {/* In a real app, this would be an <img src={images[currentIndex]} /> */}
-           {/* Using a placeholder div for now */}
-           <div className="text-center p-4">
-             <div className="text-gray-400 font-medium mb-2">Image {currentIndex + 1} of {images.length}</div>
-             <div className="text-gray-500 font-bold text-lg">{title}</div>
-             <div className="text-xs text-gray-400 mt-2">{images[currentIndex]}</div>
-           </div>
+          <img 
+            src={images[currentIndex]} 
+            alt={`${title} - Image ${currentIndex + 1}`}
+            className="w-full h-full object-contain"
+            onError={(e) => {
+              // Fallback if image doesn't load
+              e.target.style.display = 'none';
+              e.target.parentElement.innerHTML += `
+                <div class="text-center p-4">
+                  <div class="text-gray-400 font-medium mb-2">Image ${currentIndex + 1} of ${images.length}</div>
+                  <div class="text-gray-500 font-bold text-lg">${title}</div>
+                  <div class="text-xs text-gray-400 mt-2">Image not found: ${images[currentIndex]}</div>
+                </div>
+              `;
+            }}
+          />
         </motion.div>
       </AnimatePresence>
 
